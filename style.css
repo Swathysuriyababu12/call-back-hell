@@ -1,0 +1,13 @@
+body {
+  background-image: url(india.jpg);
+  background-position: center top;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: 60px;
+  margin: auto;
+}
+
+#p2 {
+  font-size: 100px;
+}
